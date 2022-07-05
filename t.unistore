@@ -68,11 +68,11 @@
         }
     ],
     "storeInfo": {
-        "title": "Universal-DB",
-        "author": "Universal-Team",
-        "description": "Universal-DB - An online database of 3DS and DS homebrew",
-        "url": "https://db.universal-team.net/unistore/universal-db-beta.unistore",
-        "file": "universal-db-beta.unistore",
+        "title": "PikaR77",
+        "author": "PikaR77",
+        "description": "no",
+        "url": "https://raw.githubusercontent.com/PikachuR77/UnistoreTest/main/t.unistore",
+        "file": "t.unistore",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 1,
